@@ -109,6 +109,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-<p align="center">
-Built with ❤️ by <strong>Likith-2004</strong>
-</p>
